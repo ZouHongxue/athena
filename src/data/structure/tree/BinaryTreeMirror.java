@@ -1,4 +1,4 @@
-package tree;
+package data.structure.tree;
 
 import model.BinaryTree;
 

@@ -11,5 +11,5 @@
     <li>dp 动态规划</li>
     <li>recursion 递归</li>
     <li>sort 排序</li>
-    <li>tree 树</li>
+    <li>data.structure.tree 树</li>
 </ul>
